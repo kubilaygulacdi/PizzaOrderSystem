@@ -1,0 +1,13 @@
+* Lutfen Bir Pizza Tabani Seciniz:
+1: Klasik
+2: Margarita
+3: TurkPizza
+4: DominosPizza
+ve sececeginiz sos:
+5: Zeytin
+6: Mantar
+7: Keci Peyniri
+8: Et
+9: Sogan
+10: Misir
+* Tesekkur ederiz!
